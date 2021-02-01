@@ -1,0 +1,9 @@
+.app-produtos {
+    min-height :100vh;
+    color: blueviolet;
+    background-color: cornsilk;
+    font-size: calc(12px + 2vmin );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    

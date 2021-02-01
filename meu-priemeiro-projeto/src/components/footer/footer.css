@@ -1,0 +1,11 @@
+.app-footer {
+    min-height :17vh;
+    color: rgb(88, 5, 172);
+    background-color: rgb(245, 244, 241);
+    font-size: calc(10px + 1vmin );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+    
